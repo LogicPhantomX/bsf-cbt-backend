@@ -1,0 +1,38 @@
+[
+  {
+    "id": "course-e16bb30b-2c05-4f65-b83e-052907cf2ff5",
+    "name": "PHY101_test001",
+    "isOpen": false,
+    "durationMinutes": 25,
+    "numQuestions": 20,
+    "openAt": null,
+    "closeAt": null
+  },
+  {
+    "id": "course-c6a097ad-19be-4fff-9aed-41f8f6c9666f",
+    "name": "MTH101_Test",
+    "isOpen": false,
+    "durationMinutes": 40,
+    "numQuestions": 30,
+    "openAt": null,
+    "closeAt": null
+  },
+  {
+    "id": "course-79b35513-0970-430f-a1f3-78ceaaff4781",
+    "name": "BIO101_Test",
+    "isOpen": false,
+    "durationMinutes": 15,
+    "numQuestions": 35,
+    "openAt": null,
+    "closeAt": null
+  },
+  {
+    "id": "course-0a7a6d76-cdb4-4f41-9131-bede5e75d0f3",
+    "name": "ACC101_Test",
+    "isOpen": true,
+    "durationMinutes": 15,
+    "numQuestions": 30,
+    "openAt": null,
+    "closeAt": null
+  }
+]
