@@ -82,5 +82,19 @@
     "matric": "2025005944",
     "passwordHash": "$2a$10$4CIJgxeSKXyKQmG5ok2pz.Ev2cHhLMd734CI7NCv2qMIZpcRy49yy",
     "role": "student"
+  },
+  {
+    "id": "7508a0af-c151-426f-ad08-ff99d058cbcd",
+    "name": "Favour Okedeyi",
+    "matric": "2025004813",
+    "passwordHash": "$2a$10$iEIlqWx6X5yFrkm1LX7bGe2Fte7ZpfsTNr/9GbdCDjVzTmBxHLi5i",
+    "role": "student"
+  },
+  {
+    "id": "f38d412d-3492-4ba4-8932-d53b2327c2d0",
+    "name": "Olushola Adeola",
+    "matric": "2025007692",
+    "passwordHash": "$2a$10$Ywbx8aIPmeQCCChN0GijBeMFD/ntHLb3JPkFQftb56O2Bj8.lgTmG",
+    "role": "student"
   }
 ]
