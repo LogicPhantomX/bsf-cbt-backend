@@ -1,0 +1,386 @@
+[
+  {
+    "id": "265d0fea-9637-4f6b-8be4-b4c7db8461c9",
+    "topic": "General",
+    "question": "Who proposed the modern cell theory?",
+    "options": [
+      "Darwin and Lamarck",
+      "Schleiden and Schwann",
+      "Watson and Crick",
+      "Hooke and Janssen"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "7d7d0594-c395-4a8d-b508-a244d4b8ba3d",
+    "topic": "General",
+    "question": "What is the basic unit of life?",
+    "options": [
+      "Tissue",
+      "Organ",
+      "Cell",
+      "Organism"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "4d606200-305b-4207-8bfc-8f77aa23b4d9",
+    "topic": "General",
+    "question": "Which statement is part of the cell theory?",
+    "options": [
+      "Cell can survive without water",
+      "All organisms are made of cells",
+      "Cells are only in animals",
+      "Cells do not divide"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "cee2ec99-871f-41b6-b11f-760b42ab8d47",
+    "topic": "General",
+    "question": "Who first observed cells in cork?",
+    "options": [
+      "Louis Pasteur",
+      "Theodore Schwann",
+      "Rudolf Virchow",
+      "Robert Hooke"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "b9e39084-0c7d-4485-a7ba-d9721e397cb0",
+    "topic": "General",
+    "question": "What invention made the discovery of cells possible?",
+    "options": [
+      "Telescope",
+      "Microscope",
+      "Centrifuge",
+      "X-ray machine"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "63798001-885e-499f-9011-d3423986583d",
+    "topic": "General",
+    "question": "Which scientist stated that “cells arise from pre-existing cells”?",
+    "options": [
+      "Schleiden",
+      "Schwann",
+      "Virchow",
+      "Hooke"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "65c00a6f-14bf-4b60-b127-1fea7a644c1f",
+    "topic": "General",
+    "question": "Organisms made of a single cell are called:",
+    "options": [
+      "Multicellular",
+      "Unicellular",
+      "Colonial",
+      "Prokaryotic"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "78970f8f-fd1d-471c-8113-ddb176c65dc5",
+    "topic": "General",
+    "question": "Organisms made of many cells are called:",
+    "options": [
+      "Unicellular",
+      "Multicellular",
+      "Amoeboid",
+      "Binary"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "f792adef-269e-4942-b3ce-718a49f70ac5",
+    "topic": "General",
+    "question": "Which of the following is considered an exception to the cell theory?",
+    "options": [
+      "Bacteria",
+      "Fungi",
+      "Protozoa",
+      "Viruses"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "59dceda0-001e-4771-8988-b2bc73bf8d2b",
+    "topic": "General",
+    "question": "The study of cells is known as:",
+    "options": [
+      "Histology",
+      "Physiology",
+      "Cytology",
+      "Ecology"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "0c1d8153-cd0f-4b08-afd8-b3f67009b43d",
+    "topic": "General",
+    "question": "Which of the following are nucleic acids?",
+    "options": [
+      "ATP and ADP",
+      "Glucose and fructose",
+      "DNA and RNA",
+      "Insulin and glucagon"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "9351df61-3816-4535-87f9-fe49717acf39",
+    "topic": "General",
+    "question": "What sugar is found in DNA?",
+    "options": [
+      "Ribose",
+      "Deoxyribose",
+      "Sucrose",
+      "Glucose"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "dc1dfae2-bf7b-48d1-9235-4867566f665c",
+    "topic": "General",
+    "question": "The building blocks of proteins are:",
+    "options": [
+      "Fatty acids",
+      "Amino acids",
+      "Nucleotides",
+      "Monosaccharides"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "f6f89d52-e36b-453e-9267-a222be632f83",
+    "topic": "General",
+    "question": "Which of the following is a function of lipids?",
+    "options": [
+      "Storage of genetic code",
+      "Transport of oxygen",
+      "Formation of enzymes",
+      "Energy storage and insulation"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "ac202ead-fc79-4cbc-a5cb-1b0aee31b5ec",
+    "topic": "General",
+    "question": "Phospholipids are major components of the:",
+    "options": [
+      "Mitochondria matrix",
+      "Nucleus",
+      "Cell membrane",
+      "Ribosome"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "17180612-2530-4158-8ccd-e371f081191d",
+    "topic": "General",
+    "question": "What type of biomolecule are enzymes?",
+    "options": [
+      "Proteins",
+      "Lipids",
+      "Vitamins",
+      "Carbohydrates"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "9b7ff56e-2f64-403f-866e-9ae6e3e586cc",
+    "topic": "General",
+    "question": "The major energy molecule used in cells is:",
+    "options": [
+      "DNA",
+      "Cholesterol",
+      "ATP",
+      "Starch"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "ee53506f-ad7b-41cd-9213-a536a8d98943",
+    "topic": "General",
+    "question": "The monomer of nucleic acids is called:",
+    "options": [
+      "Amino acid",
+      "Nucleotide",
+      "Fatty acid",
+      "Monosaccharide"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "f51cf1f5-7243-474b-b507-d1ee9170b872",
+    "topic": "General",
+    "question": "Which element is present in proteins but absent in carbohydrates?",
+    "options": [
+      "Carbon",
+      "Oxygen",
+      "Hydrogen",
+      "Nitrogen"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "8745b260-0317-4713-9bf5-1174b0219843",
+    "topic": "General",
+    "question": "Which macromolecule stores genetic information?",
+    "options": [
+      "Lipids",
+      "Proteins",
+      "Nucleic acids",
+      "Carbohydrates"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "dd47ff19-a6c2-486f-a165-b835746c0955",
+    "topic": "General",
+    "question": "Which functional groups are present in all amino acids?",
+    "options": [
+      "Carbonyl and phosphate",
+      "Amino and carboxyl",
+      "Sulfhydryl and hydroxyl",
+      "Methyl and aldehyde"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "b2e73430-fdae-4413-87ae-b72137a64240",
+    "topic": "General",
+    "question": "Which carbohydrate is the primary energy source for most animal cells?",
+    "options": [
+      "Lactose",
+      "Glucose",
+      "Sucrose",
+      "Cellulose"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ee26830c-bc12-4720-bcf6-591a72b06c25",
+    "topic": "General",
+    "question": "The two major branches of biology are ________ & __________",
+    "options": [
+      "Animalia & Plantae",
+      "Animal Kingdom & Plant KIngdom",
+      "Zoology & Botany",
+      "Enviromental Biology & Microbiology"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "b79bdf74-f6c4-4492-a8fa-65ef411044de",
+    "topic": "General",
+    "question": "Which lipid acts as a precursor for steroid hormones?",
+    "options": [
+      "Triglyceride",
+      "Cholesterol",
+      "Phospholipid",
+      "Glycolipid"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "1c88ffef-743a-4f6d-b0c8-f574f4189319",
+    "topic": "General",
+    "question": "Which statement correctly describes cellulose?",
+    "options": [
+      "It is a storage polysaccharide in animals",
+      "It is a storage polysaccharide in animals",
+      "It provides structural support in plant cell walls",
+      "It is the main respiratory substrate in humans"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "6ad0d74b-4f3a-416b-8683-c94647577765",
+    "topic": "General",
+    "question": "Which kingdom contains eukaryotic, mostly multicellular organisms that do not perform photosynthesis?",
+    "options": [
+      "Plantae",
+      "Animalia",
+      "Protista",
+      "Monera"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "0e8b8e27-0ad1-4653-bb41-5a1ea81aebac",
+    "topic": "General",
+    "question": "Which of the following describes Kingdom Monera?",
+    "options": [
+      "Multicellular and eukaryotic",
+      "Unicellular and prokaryotic",
+      "Multicellular and autotrophic",
+      "Unicellular and without cell walls"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "9c264bb4-a331-4455-897a-2f0e2fb576da",
+    "topic": "General",
+    "question": "Which statement best explains why viruses are placed outside traditional classification systems?",
+    "options": [
+      "They possess both RNA and DNA simultaneously",
+      "They can reproduce independently when nutrients are abundant",
+      "They lack the cellular organization required for life",
+      "They are larger than most prokaryotic cells"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "beed229d-a274-4a67-ab26-4f25cdab8030",
+    "topic": "General",
+    "question": "Which property of phospholipids drives the spontaneous formation of bilayers in aqueous environments?",
+    "options": [
+      "High melting point of fatty acid chains",
+      "Uniform hydrophobicity throughout the molecule",
+      "Amphipathic structure with hydrophilic heads and hydrophobic tails",
+      "Presence of nitrogen in the head group"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "fd6dca96-b1d6-4afb-97f0-30e530b19cf3",
+    "topic": "General",
+    "question": "Which feature best differentiates prokaryotic cells from eukaryotic cells?",
+    "options": [
+      "Presence of ribosomes",
+      "Absence of a membrane-bound nucleus",
+      "Ability to perform respiration",
+      "Presence of genetic material"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "cfc75308-4e11-444d-9d15-62ca5bda952d",
+    "topic": "General",
+    "question": "Which polysaccharide is structurally similar to cellulose but found in fungi instead of plants?",
+    "options": [
+      "Glycogen",
+      "Starch",
+      "Pectin",
+      "Chitin"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "f1693268-1049-4b39-83f6-1527cff3867d",
+    "topic": "General",
+    "question": "What is the name of the Scientist who generated urea from organic chemicals______________",
+    "options": [
+      "Adrian Agreste",
+      "Natsu Dragneel",
+      "Sung Jin Woo",
+      "Friedrich Wohler"
+    ],
+    "answerIndex": 4
+  }
+]

@@ -1,0 +1,614 @@
+[
+  {
+    "id": "01da9614-c1ef-40fd-a5b5-23d0ed1221f0",
+    "topic": "General",
+    "question": "Which of the following is the dimension of force",
+    "options": [
+      "MLT^-2",
+      "M^2L^2T^-3",
+      "ML^2",
+      "M^-2T^-2"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "937df54f-8e68-4f6e-b95e-3521f77fb32d",
+    "topic": "General",
+    "question": "Which of the following is not a physical quantity?",
+    "options": [
+      "Kelvin",
+      "Candela",
+      "Henry",
+      "All of the above"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "8e14bb7d-3c97-4a6f-bdcb-e7ca4a928d42",
+    "topic": "General",
+    "question": "Which of the following is a derived unit?",
+    "options": [
+      "Ampere",
+      "Mole",
+      "Candela",
+      "Newton"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "a40ba831-8f2a-408e-9b79-6e2f27009e96",
+    "topic": "General",
+    "question": "Rad/sec is the unit of",
+    "options": [
+      "Angular displacement",
+      "Angular velocity",
+      "Angular acceleration",
+      "Angular momentum"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ade0b831-9291-48a8-bbf1-919fc32470a7",
+    "topic": "General",
+    "question": "Which would fall with greater acceleration in a vacuum – a leaf or a stone?",
+    "options": [
+      "The leaf",
+      "The stone",
+      "They would accelerate at the same rate",
+      "It is difficult to determine without more information"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "5e58cd2f-afe4-4c1a-8079-67f608bfcd6b",
+    "topic": "General",
+    "question": "Speed is ?",
+    "options": [
+      "A measure of how fast something is moving",
+      "Always measured in terms of a unit of distance  divided by a unit of time",
+      "The distance covered per unit time",
+      "All of the above"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "40ff659e-29ec-48a0-ab1c-20f34c5d21e4",
+    "topic": "General",
+    "question": "As an object falls freely in a vacuum, its",
+    "options": [
+      "Velocity increases",
+      "Acceleration increases",
+      "Both a and b",
+      "None of the above"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "ec6311b5-9e8d-486a-8566-67b47eceff3f",
+    "topic": "General",
+    "question": "A ball is thrown upwards and caught when it comes back down. In the absence of air resistance, the speed of the  ball when caught would be",
+    "options": [
+      "Less than the speed it had when thrown upwards",
+      "More than the speed it had when thrown upwards",
+      "The same as speed it had when thrown upwards",
+      "None of the above"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "140a4e55-a267-461e-bdf9-8241923548cb",
+    "topic": "General",
+    "question": "8. Suppose an object is in free fall. Each second the object falls",
+    "options": [
+      "The same distance as in the second before",
+      "A larger distance than in the second before",
+      "With the same instantaneous speed",
+      "None of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "6b4e7ca5-4ba8-4313-9a39-dee32bf2a620",
+    "topic": "General",
+    "question": "A ball is tossed vertically upwards rises, reaches its highest point, and then falls back to its starting point. During  this time, the acceleration of the ball is always",
+    "options": [
+      "In the direction of motion",
+      "Opposite its velocity",
+      "Directed downward",
+      "Directed upward"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "cddafa95-7cb8-4bc7-b1c7-147491a3c8e7",
+    "topic": "General",
+    "question": "Suppose you take a trip that covers 180km and takes 3hrs to make, your average speed is",
+    "options": [
+      "30km/hr",
+      "60km/hr",
+      "180km/hr",
+      "360km/hr"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "b315bb14-a282-4548-8b65-c6b0d0e592ea",
+    "topic": "General",
+    "question": "Suppose a car is moving in a straight line and steadily increases its speed. It moves from 35km/hr to 40km/hr the  first second, and from 40km/hr to 45km/hr the next second, what is the car’s acceleration?",
+    "options": [
+      "5km/hr.s",
+      "10km/h.s",
+      "35km/h.s",
+      "40km/h.s"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "9e1d97f3-cb46-4908-8329-db1ed518d17c",
+    "topic": "General",
+    "question": "A ball is thrown straight up. At the top of its path its instantaneous speed is",
+    "options": [
+      "0m/s",
+      "About 5m/s",
+      "About 10m/s2",
+      "About 50m/s2"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "fe57bd12-f76a-4ad7-8b30-b9f482ea5347",
+    "topic": "General",
+    "question": "A ball is thrown straight up. At the top of its path, its acceleration is",
+    "options": [
+      "0m/s2",
+      "About 5m/s2",
+      "About 10m/s2",
+      "About 20m/s2"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "9fd5a250-eda6-4560-88e0-7fa3c73be97b",
+    "topic": "General",
+    "question": "A car accelerates at 2m/s2 , assuming the car starts from rest, how much time does it need to accelerate to a speed  of 20m/s?",
+    "options": [
+      "2seconds",
+      "10seconds",
+      "20seconds",
+      "None of the above"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "ddc3d040-c039-412f-99e7-6cd39a70ed0d",
+    "topic": "General",
+    "question": "The pair of quantities which have the same dimensional formula is",
+    "options": [
+      "Impulse & Velocity",
+      "Force & Weight",
+      "Impulse & Inertia",
+      "Angular momentum & Linear momentum"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "20656abe-56ae-4bd9-90a3-d1d1f4969270",
+    "topic": "General",
+    "question": "A speedometer measures the ......in your car",
+    "options": [
+      "Instantaneous velocity",
+      "Acceleration",
+      "Time",
+      "Average velocity"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "8970e872-78b6-45a1-8595-102f17071674",
+    "topic": "General",
+    "question": "The unit of angular frequency is",
+    "options": [
+      "Rad/s2",
+      "Rad/s",
+      "m/s",
+      "rad"
+    ],
+    "answerIndex": 2
+  },
+  {
+    "id": "5d1811c1-c461-44dd-abf1-2ea62e793b5e",
+    "topic": "General",
+    "question": "The fundamental quantity in M.K.S. and C.G.S is",
+    "options": [
+      "Kelvin",
+      "Kilogram",
+      "Metre",
+      "Second"
+    ],
+    "answerIndex": 4
+  },
+  {
+    "id": "c87eda39-0ea4-4d97-b7e1-680ce6594fa6",
+    "topic": "General",
+    "question": "When a car’s velocity is positive and its acceleration is negative, what is the state of the car",
+    "options": [
+      "The car slows down",
+      "The car travels at constant speed",
+      "The car speeds up",
+      "The speed of the car equals zero"
+    ],
+    "answerIndex": 1
+  },
+  {
+    "id": "d748efc2-2202-44a3-939e-812bcb4b6f79",
+    "topic": "General",
+    "question": "The fundamental unit which is common F.P.S. and M.K.S. system is",
+    "options": [
+      "Foot",
+      "Second",
+      "Kilogram",
+      "Pound"
+    ],
+    "answerIndex": 2
+  },
+  {
+  "id": "Q_1a92kd",
+  "question": "A boy played a ball from 58m of a wall, on getting to the wall he played the ball back to spot he started from. What is his displacement?",
+  "options": ["58m", "29m", "0m", "None of the above"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_2bx91m",
+  "question": "The resultant of two like parallel forces is 15N and act a distance of 6cm from the 7N force. Find the magnitude of the other.",
+  "options": ["15N", "8N", "22N", "7N"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_3jqx01",
+  "question": "Two like parallel forces had magnitude of 10N and 20N, the distance between their line of action is 30cm. Find the distance between the resultant and the 10N force.",
+  "options": ["15cm", "10cm", "20cm", "5cm"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_4plm39",
+  "question": "An object moves in a circular path at constant speed v. What happens to the acceleration if the radius is quadrupled and speed doubled?",
+  "options": ["It doubles", "It quadruples", "Remains unchanged", "Its cut to a quarter"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_5hxa81",
+  "question": "Which dimensional analysis is analogous to each other?",
+  "options": ["Pressure and momentum", "Impulse and area", "Pressure and strain", "Pressure and stress"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_6pzz17",
+  "question": "The minimum speed an object must have at earth’s surface in order to escape is called?",
+  "options": ["Escape velocity", "Gravitational velocity", "Minimum velocity", "Average velocity"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_7kvm20",
+  "question": "For two parallel vectors, the angle between them is:",
+  "options": ["0 degree", "45 degree", "90 degree", "180 degree"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_8mab92",
+  "question": "At what angle is the resultant of two vectors minimum?",
+  "options": ["0 degree", "90 degree", "180 degree", "45 degree"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_9cdx88",
+  "question": "In which of the following is mechanical work done?",
+  "options": ["A man trying unsuccessfully to lift a load", "A man carrying a heavy load", "A girl chewing gum", "A man carrying a boy"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_10rty51",
+  "question": "The tendency of an object in a curved path to fly away from the centre is due to lack of:",
+  "options": ["Centrilugal force", "Centripetal force", "Centrifugal force", "Centifugal force"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_11smm03",
+  "question": "Which of the following physical quantities is not a fundamental quantity?",
+  "options": ["Length", "Weight", "Mass", "Time"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_12vnc42",
+  "question": "The energy possessed by a body by virtue of its motion is:",
+  "options": ["Kinetic energy", "Potential energy", "Sitting energy", "None of the above"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_13qpl87",
+  "question": "The force which acts opposite in direction to the force at the centre is:",
+  "options": ["Centripetal", "Centrifugal", "Frictional", "Push"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_14kjw10",
+  "question": "For two perpendicular vectors, the angle between them is:",
+  "options": ["0 degree", "45 degree", "90 degree", "180 degree"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_15ans58",
+  "question": "A particle of mass 10^-2 kg rotates at 100rad/s, radius = 0.2m. Find centripetal force.",
+  "options": ["2N", "20N", "200N", "500N"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_16xqa90",
+  "question": "What is the force of attraction between 10^6kg and 10^3kg at 1m?",
+  "options": ["7×10^-20N", "7×10^-8N", "7×10^-2N", "7×10^3N"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_17ghu14",
+  "question": "A 5kg body moving at 10m/s is acted on by 25N for 0.2s. Find final velocity.",
+  "options": ["10m/s", "11m/s", "12m/s", "13m/s"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_18vru55",
+  "question": "A car starts from rest to 80m/s in 16s. Distance covered?",
+  "options": ["600m", "620m", "630m", "640m"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_19kwp30",
+  "question": "Given F1=2i-j-3k, F2=i+3j+2k, F3=-i+2j-k, find resultant and magnitude.",
+  "options": ["2i+2j+2k, 12", "2i-2j+2k, 2√3", "2i+2j+0k, 8", "2i+4j-2k, 2√6"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_20bte99",
+  "question": "The length of vector A = 3i - j + 2k is:",
+  "options": ["3.47", "4.3", "3.19", "3.74"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_21ftd17",
+  "question": "A boat moves north at 10km/hr, river flows south at 5km/hr. Find velocity relative to bank.",
+  "options": ["11.2m/s", "6.5m/s", "4.1m/s", "11.56m/s", "8.10m/s"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_22mno11",
+  "question": "The kind of collision where energy is not conserved:",
+  "options": ["Inelastic collision", "Kinetic collision", "Potential collision", "Elastic collision"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_23bfn94",
+  "question": "The type of vibration from external actions is:",
+  "options": ["Natural vibration", "Sinusoidal vibration", "Forced vibration", "Damped vibration"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_24hyz75",
+  "question": "The property of metal that makes it suitable for cooking:",
+  "options": ["Good conduction of heat", "Radiation of heat", "Convection of heat", "Absorption of heat"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_25dmd81",
+  "question": "The period of an oscillation is 25sec, what is its frequency?",
+  "options": ["4Hz", "0.4Hz", "0.04Hz", "25Hz"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_26pqx55",
+  "question": "Stress = 10^7Nm^-2, length changes from 10.00cm to 10.03cm. Find Young's modulus.",
+  "options": ["5.0×10^4Nm^-2", "2.0×10^6N/m^2", "3.33×10^9N/m^2", "9.27×10^9N/m^2"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_27lgh40",
+  "question": "Atmospheric pressure is measured by:",
+  "options": ["Mercury barometer", "Open tube manometer", "Mercury manometer", "Open-tube barometer"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_28qwe13",
+  "question": "Two balls are dropped 1s apart. Difference in their speeds as time increases:",
+  "options": ["Cannot be determined", "Decreases", "Remains constant", "Increases"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_29txp16",
+  "question": "Under what condition is average velocity equal to initial and final velocity?",
+  "options": ["No acceleration", "Acceleration is constant", "Velocity must be zero", "Acceleration increasing", "Acceleration decreasing"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_30ywb01",
+  "question": "Object moving with constant speed around a circle has acceleration:",
+  "options": ["Constant in magnitude & direction", "Constant magnitude & varying direction", "Varying magnitude & constant direction", "Varying magnitude & direction"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_31opm90",
+  "question": "Speedometer and odometer measure:",
+  "options": ["Acceleration & Speed", "Speed & Distance", "Speed & Acceleration", "Distance & Time"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_32jzt46",
+  "question": "The velocity-time graph of an object moving with constant acceleration is:",
+  "options": ["Parabolic curve", "Straight vertical line", "Horizontal straight line angled", "None of the above"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_33hka83",
+  "question": "A car traveling 22.4m/s stops in 2.55s. Skidding distance?",
+  "options": ["39m", "25m", "17.20m", "28.60m"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_34bqx58",
+  "question": "The addition of two vectors is:",
+  "options": ["Reactive", "Distributive", "Derimutive", "Commutative"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_35vmr40",
+  "question": "If the weight of a ball is more than the weight of water displaced, it will:",
+  "options": ["Is constant", "Sink", "Float", "None of the above"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_36slp99",
+  "question": "Buoyant force acts same direction as gravity.",
+  "options": ["True", "False", "True/False", "All of the above"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_37gji22",
+  "question": "A swimmer pushes water backward and moves forward due to:",
+  "options": ["Newton's Third Law", "Newton's Second Law", "Newton's Third law", "None"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_38psx11",
+  "question": "A boy walks 5m forward and 5m backward. Displacement?",
+  "options": ["10m", "0m", "20m", "40m"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_39udh44",
+  "question": "A tablecloth is pulled quickly and dishes stay due to:",
+  "options": ["Reaction force", "Momentum", "Friction", "Inertia"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_40oob27",
+  "question": "A car moving around a tree in a circle: Average velocity is:",
+  "options": ["<0", "Not equal to zero", ">0", "=0"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_41xrf02",
+  "question": "Average velocity is considered where change of position is:",
+  "options": ["Not constant", "Constant", "Equal to one", "Equal to zero"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_42kpw06",
+  "question": "One of the following is NOT part of inertia:",
+  "options": ["Inertia of motion", "Inertia of rest", "Inertia of location", "Inertia of direction"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_43smp11",
+  "question": "The area under velocity-time graph represents:",
+  "options": ["Average speed", "Average acceleration", "Average displacement", "Uniform speed"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_44ymb55",
+  "question": "The slope of distance-time graph represents:",
+  "options": ["Velocity", "Average speed", "Acceleration", "Speed"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_45tte19",
+  "question": "Who performs the greatest work?",
+  "options": ["A boy sitting", "Passenger waiting", "A man in airplane", "A boy wanting to catch a ball"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_46dzp09",
+  "question": "Limiting value of rate of change of displacement when time is very small:",
+  "options": ["Velocity", "Average velocity", "Instantaneous velocity", "Uniform velocity"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_47lkk48",
+  "question": "Which has the least inertia?",
+  "options": ["A feather", "A football", "A car", "A bowling ball"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_48ujq18",
+  "question": "Tyres are threaded to:",
+  "options": ["Look good", "Increase longevity", "Increase weight", "Increase friction"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_49pqe70",
+  "question": "Which of the following is a derived quantity?",
+  "options": ["Temperature", "Luminous intensity", "Young's Modulus", "Electric current"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_50tws92",
+  "question": "If the acceleration of a body is zero, it cannot be moved:",
+  "options": ["True", "False", "Not known", "All of the above"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_51agx33",
+  "question": "An orange at rest falls freely from 10m. Time to reach ground?",
+  "options": ["100s", "10s", "1.4s", "14s"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_52zpm88",
+  "question": "A body drops from 50m. Time to reach ground?",
+  "options": ["10.2s", "5.1s", "3.2s", "2.3s"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_53daw91",
+  "question": "A 4kg ball thrown vertically reaches 40m. Time in air?",
+  "options": ["2.83m", "5.66m", "2.83s", "5.66s"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_54uvt07",
+  "question": "A ball is released from rest. Position & velocity after 4s?",
+  "options": ["78.4m, 3.92m/s", "4.90m, 29.4m/s", "19.6m, 19.6m/s", "44.1m, 29.4m/s"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_55btp62",
+  "question": "A ball thrown up from a tower with 20m/s takes 6s to hit ground. Height?",
+  "options": ["60m", "80m", "100m", "120m"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_56hkt40",
+  "question": "A stone is thrown horizontally from a tall building with 10m/s and lands 50m away. Height?",
+  "options": ["75m", "100m", "125m", "150m"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_57wlg04",
+  "question": "Object dropped from 80m. Speed on impact?",
+  "options": ["40m/s horizontally", "40m/s downward", "64.03 downward", "50m/s downward"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_58nyx90",
+  "question": "A ball is thrown upward at 100m/s. Maximum height?",
+  "options": ["501.2m", "520.1m", "500.1m", "510.2m"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_59ukd11",
+  "question": "A car starts from rest and reaches 80m/s in 16s. How far?",
+  "options": ["640m", "620m", "460m", "680m"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_60qpf44",
+  "question": "A rocket accelerates at 29.4m/s² for 4s then coasts. Max height?",
+  "options": ["980.0m", "940.8m", "705.6m", "235.2m"],
+  "answerIndex": 2
+}
+]
