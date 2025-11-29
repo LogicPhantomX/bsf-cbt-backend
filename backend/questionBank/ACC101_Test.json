@@ -406,5 +406,186 @@
       "Lawrence Appley's definition"
     ],
     "answerIndex": 3
-  }
+  },
+  {
+  "id": "Q_c9x1p2",
+  "question": "According to the text, which accounting method is described as a 'traditional method of recording transactions using physical journal and ledgers'?",
+  "options": ["Spreadsheet Accounting", "Double Entry Bookkeeping System", "Manual (Ledger) Method", "Accounting Software Method"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_m4k9s7",
+  "question": "Which of the following is listed as an advantage of a Manual System?",
+  "options": ["It is highly prone to mistakes and errors.", "It is cheaper to install than a computerized system.", "It takes a longer time to complete tasks.", "Auditing the system is easy and straightforward."],
+  "answerIndex": 2
+},
+{
+  "id": "Q_h2q7d1",
+  "question": "Which of the following is listed as a disadvantage (demerit) of a Computerized Accounting System?",
+  "options": ["It helps avoid the duplication of records.", "It is prone to risks like computer viruses and hard disk crashes.", "It generates different reports for managers.", "Entry of data is faster than in a manual system."],
+  "answerIndex": 2
+},
+{
+  "id": "Q_p5n3v4",
+  "question": "The text defines a 'Chart of Account' as:",
+  "options": ["A method of recording transactions using Microsoft Excel or Google Sheets.", "A traditional ledger book for manual accounting.", "A computerized method that automates bookkeeping, like QuickBooks or Sage.", "A set of numbers and codes that define and differentiate each account."],
+  "answerIndex": 4
+},
+{
+  "id": "Q_t8s6b1",
+  "question": "Which accounting system requires a 'double entry for each financial transaction' by recording a corresponding credit for each debit?",
+  "options": ["Single Entry Bookkeeping System", "Manual (Ledger) System", "Double Entry Bookkeeping System", "Spreadsheet Accounting System"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_f1e9w0",
+  "question": "Which system is described as a 'basic system' where a company might 'record daily receipts or generate a daily or weekly report of cash flow'?",
+  "options": ["Double Entry Bookkeeping System", "Single Entry Bookkeeping System", "Manual (Ledger) Method", "Accounting Software System"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_z3r8k3",
+  "question": "According to the text, a major disadvantage of the Manual System regarding security is that it is:",
+  "options": ["Prone to computer viruses and hacking.", "Prone to destruction by flood and fire without any back-up.", "More secure because it's not connected to the internet.", "Easily duplicated, leading to data theft."],
+  "answerIndex": 2
+},
+{
+  "id": "Q_n6u2m5",
+  "question": "Microsoft Excel and Google Sheets are given as examples of what method of recording transactions?",
+  "options": ["Accounting Software", "Manual (Ledger) Method", "Mechanical Accounting System", "Spreadsheet Accounting"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_b7k4x8",
+  "question": "Which of the following is not listed as an advantage of a computerized accounting system?",
+  "options": ["It helps to communicate with customers and suppliers.", "Quick and fast decisions can be made by managers.", "It requires less training for personnel compared to a manual system.", "Accounting records are secure and safe because they can be backed up."],
+  "answerIndex": 3
+},
+{
+  "id": "Q_s4m1v9",
+  "question": "Things you wish you could have, such as a jeep or a job in NNPC, are defined as:",
+  "options": ["Needs", "Wants", "Services", "Goods"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_w8t6l2",
+  "question": "Necessities of life, such as food, shelter, and clothing, are defined as:",
+  "options": ["Needs", "Wants", "Resources", "Luxuries"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_d1q3p0",
+  "question": "When you give up one item to choose another, the cost of the choice you gave up is called:",
+  "options": ["Monetary Cost", "Opportunity Cost", "Business Cost", "Value Cost"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_y5h9n4",
+  "question": "The business activity that involves advertising, distributing, and selling products is:",
+  "options": ["Organizing", "Manage", "Production", "Marketing"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_v2c7r1",
+  "question": "The primary motive for every business organization is:",
+  "options": ["To provide services", "To make a profit", "To exchange goods", "To satisfy consumers"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_k9m8d5",
+  "question": "Which objective of business states that a business must 'not only survive, but continue to be the biggest'?",
+  "options": ["Survival", "Profit", "Market Share", "Growth"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_e3b6f1",
+  "question": "The characteristic of business that involves 'every business undertaking must take risk' is:",
+  "options": ["Continuity and regularity", "Uncertainty and risk bearing", "Profit motive", "Dealing in goods"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_j2l4h7",
+  "question": "In your role as a consumer, you are always referred to as a:",
+  "options": ["King", "Citizen", "Wage Earner", "Boss"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_r9s1w3",
+  "question": "The 'basic thing' the government gains from business is:",
+  "options": ["Employment", "Green products", "Tax", "Health insurance"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_u1p6c8",
+  "question": "Management is defined as the art of getting things done through others by:",
+  "options": ["Lawrence Appley", "Mary Parker Follet", "George R. Terry", "Henry Fayol"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_m0q5t9",
+  "question": "Who stated that to manage is to forecast and plan, to organise, to command, to coordinate, and to control?",
+  "options": ["Henry Fayol", "Peter Drucker", "Koontz", "Ordway Tead"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_x8w3l0",
+  "question": "George R. Terry defines management as planning, organising, motivating and controlling. True or False?",
+  "options": ["True", "False", "I don't know", "None of the above"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_p7f2k6",
+  "question": "Management is viewed as the following EXCEPT:",
+  "options": ["As a Process", "As a Discipline", "As a Human Activity", "As a Topic"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_s6d9h2",
+  "question": "The following are characteristics of management EXCEPT:",
+  "options": ["Management is a continuous process", "Management is an art as well as science", "Management is a factor of production", "Management encourages terrorism"],
+  "answerIndex": 4
+},
+{
+  "id": "Q_f3n7b1",
+  "question": "Financial Management includes the following EXCEPT:",
+  "options": ["Forecasting", "Placing order", "Budgetary Control", "Management Accounting"],
+  "answerIndex": 2
+},
+{
+  "id": "Q_a9c4m8",
+  "question": "Abacus was invented by:",
+  "options": ["Charles Babbage", "Atanasoff Berry Computer", "ENIAC", "IBM"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_g1t5v2",
+  "question": "The first electronic computing device is:",
+  "options": ["Abacus", "Personal Computer", "Atanasoff Berry Computer", "Smartphone"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_h4b1n3",
+  "question": "GUI is an acronym for:",
+  "options": ["Graphical User Interfaces", "Graphics User Interfaces", "Graph User Interfaces", "Graphical Universal Interfaces"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_r2w8y7",
+  "question": "The acceptable definition of Economics was given by:",
+  "options": ["Adam Smith", "John Stuart Mill", "Professor Lionel Robbins", "Jacob Viner"],
+  "answerIndex": 3
+},
+{
+  "id": "Q_l5m0s4",
+  "question": "ENIAC is an acronym for:",
+  "options": ["Electronic Numerical Integrator and Computer", "Electrical Number Integrator and Computer", "Electronic Number Integrator and Computer", "Electric Numerical Integrator and Computer"],
+  "answerIndex": 1
+},
+{
+  "id": "Q_o7k2d9",
+  "question": "PCs were invented in which century?",
+  "options": ["Late 20th Century", "Early 20th Century", "Mid 20th Century", "21st Century"],
+  "answerIndex": 1
+}
+
 ]
