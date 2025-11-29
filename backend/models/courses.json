@@ -21,8 +21,8 @@
     "id": "course-0a7a6d76-cdb4-4f41-9131-bede5e75d0f3",
     "name": "ACC101_Test",
     "isOpen": true,
-    "durationMinutes": 15,
-    "numQuestions": 30,
+    "durationMinutes": 20,
+    "numQuestions": 50,
     "openAt": null,
     "closeAt": null
   },
