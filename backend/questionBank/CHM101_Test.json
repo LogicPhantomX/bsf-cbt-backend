@@ -348,6 +348,40 @@
     "answerIndex": 3
   },
   {
+  "id": "Q_482917",
+  "question": "Who developed the binomial system of naming organisms?",
+  "options": [
+    "Charles Darwin",
+    "Robert Whittaker",
+    "Carl Linnaeus",
+    "Ernst Haeckel"
+  ],
+  "answerIndex": 3
+},
+  {
+    "id": "Q_937204",
+    "question": "The scientific name of an organism consists of: _________&_________",
+    "options": [
+      "Kingdom, Phylum",
+      "Order, Family",
+      "Genus, Species",
+      "Class, Order"
+    ],
+    "answerIndex": 3
+  },
+  {
+    "id": "Q_650381",
+    "question": "Which is the correct order of classification from broadest to most specific?",
+    "options": [
+      "Class → Kingdom → Species",
+      "Family → Order → Phylum",
+      "Kingdom → Phylum → Class",
+      "Species → Genus → Family"
+    ],
+    "answerIndex": 3
+  },
+
+  {
     "id": "7dfc8496-df3e-4992-bd6e-5b44a050c694",
     "topic": "General",
     "question": "Which one is a physical property?",
