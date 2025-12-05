@@ -96,5 +96,12 @@
     "matric": "2025007692",
     "passwordHash": "$2a$10$Ywbx8aIPmeQCCChN0GijBeMFD/ntHLb3JPkFQftb56O2Bj8.lgTmG",
     "role": "student"
+  },
+  {
+    "id": "4a43672e-8482-413e-a5b4-cb6b491eac23",
+    "name": "Adewuyi joy",
+    "matric": "02042008",
+    "passwordHash": "$2a$10$efN1NsXBdga/Z4YPVysXnOQvvhSd4N96OzqYSimlxJSZ.KXOOVdm2",
+    "role": "student"
   }
 ]
